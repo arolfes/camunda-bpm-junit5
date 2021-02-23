@@ -16,6 +16,7 @@
   <modules>
     <module>core</module>
     <module>examples/camunda-bpm-assert</module>
+    <module>examples/camunda-bpm-springboot</module>
   </modules>
   
   <scm>

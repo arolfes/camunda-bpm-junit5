@@ -38,8 +38,7 @@ and access the process engine from the extension object:
 
 
 ### Examples
-To use the JUnit 5 extension together with camunda-bpm-assert have a look at the [example-camunda-bpm-assert-junit5](examples/camunda-bpm-assert/README.md).
-
+To use the JUnit 5 extension together with camunda-bpm-assert have a look at the [example-camunda-bpm-assert-junit5](examples/camunda-bpm-assert/README.md) or [example-camunda-bpm-springboot-junit5](examples/camunda-bpm-springboot/README.md) .
 
 
     
